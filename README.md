@@ -1,3 +1,3 @@
 # coding-exercises
 
-Includes competitive programming and coding interview solutions.
+Includes competitive programming, course problems, and coding interview solutions.
