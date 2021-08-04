@@ -14,9 +14,7 @@ class Solution:
                     res.append(nums[j])
                     key += str(nums[j]) + "."
                     
-            if key in otp_set:
-                pass
-            else:
+            if key not in otp_set:
                 otp_set.add(key)
                 otp.append(res)
         
